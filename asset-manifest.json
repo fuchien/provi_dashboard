@@ -1,0 +1,16 @@
+{
+  "main.css": "/provi_dashboard/static/css/main.ec9c1537.chunk.css",
+  "main.js": "/provi_dashboard/static/js/main.cc9b226e.chunk.js",
+  "main.js.map": "/provi_dashboard/static/js/main.cc9b226e.chunk.js.map",
+  "runtime~main.js": "/provi_dashboard/static/js/runtime~main.719a451d.js",
+  "runtime~main.js.map": "/provi_dashboard/static/js/runtime~main.719a451d.js.map",
+  "static/js/2.f368aca8.chunk.js": "/provi_dashboard/static/js/2.f368aca8.chunk.js",
+  "static/js/2.f368aca8.chunk.js.map": "/provi_dashboard/static/js/2.f368aca8.chunk.js.map",
+  "index.html": "/provi_dashboard/index.html",
+  "precache-manifest.5fbfc3a997ba5171fc1dc4cfd3cfe906.js": "/provi_dashboard/precache-manifest.5fbfc3a997ba5171fc1dc4cfd3cfe906.js",
+  "service-worker.js": "/provi_dashboard/service-worker.js",
+  "static/css/main.ec9c1537.chunk.css.map": "/provi_dashboard/static/css/main.ec9c1537.chunk.css.map",
+  "static/media/paid.png": "/provi_dashboard/static/media/paid.8ac0daf5.png",
+  "static/media/pay_now.png": "/provi_dashboard/static/media/pay_now.9e4333c7.png",
+  "static/media/user.png": "/provi_dashboard/static/media/user.98f7ba11.png"
+}
