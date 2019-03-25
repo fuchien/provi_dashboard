@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/provi_dashboard/static/js/runtime~main.719a451d.js"
   },
   {
-    "revision": "0abb6518fae300be652f",
-    "url": "/provi_dashboard/static/js/main.cc9b226e.chunk.js"
+    "revision": "7b24529d3924e9fb5a23",
+    "url": "/provi_dashboard/static/js/main.070c5f09.chunk.js"
   },
   {
     "revision": "419fc940b7e36769ca42",
     "url": "/provi_dashboard/static/js/2.f368aca8.chunk.js"
   },
   {
-    "revision": "0abb6518fae300be652f",
+    "revision": "7b24529d3924e9fb5a23",
     "url": "/provi_dashboard/static/css/main.ec9c1537.chunk.css"
   },
   {
-    "revision": "f9cb5ba3d024e3e4f75025dfcb8c470b",
+    "revision": "e912418b321160c6811757d70e561a4d",
     "url": "/provi_dashboard/index.html"
   }
 ];
